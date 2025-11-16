@@ -31,16 +31,9 @@ This site is intentionally minimal and portable:
 - **Vanilla JavaScript**
 - Fully static (no build tools required)
 
-You can deploy it anywhere:
-- GitHub Pages  
-- Vercel  
-- Netlify  
-- Cloudflare Pages  
-
 ---
 
 ## 📁 Project Structure
-
 
 ---
 
